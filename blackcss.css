@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+    text-align: center;
+    word-spacing: 10%;
+    font-size: 20px;
+}
+h1{
+   color:aliceblue;
+   font-size: 50px;
+   
+}
+h1:hover{
+    color:#3A1078;
+    font-size: 80px;
+}
+.main{
+    color: gold;
+    font-size: 40px;
+}
+.image1:hover{
+background-image: url(https://images.unsplash.com/photo-1573578160998-4f4c7b023aec?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8Z29hdHxlbnwwfHwwfHw%3D&w=1000&q=80);
+}
+.second{
+
+    color:cadetblue;
+    word-spacing: 10px;
+    background-image:url(https://w0.peakpx.com/wallpaper/713/387/HD-wallpaper-kobe-bryant-nba-player-2020-high-quality.jpg);
+    
+   
+}
+a{
+    color:gold;
+    background-color: #3A1078;
+}
+
+hr{
+    color: #3C84AB;
+    border-style: none none dotted;
+    size: 3px;
+    border-width:5px;
+    width: 50%;
+
+}
